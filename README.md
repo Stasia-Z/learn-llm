@@ -8,7 +8,7 @@
 
 | Глава | Эксперимент | Статья |
 | --- | --- | --- |
-| 2. Работа с текстом | [Позиционные эмбеддинги: как модель не путает слово и его место](ch02-working-with-text/positional-embeddings/) | [Хабр](https://habr.com/ru/articles/1101178/) |
+| 2. Работа с текстом | [Позиционные эмбеддинги: как модель не путает слово и его место](https://github.com/Stasia-Z/learn-llm/blob/main/positional_embeddings.ipynb) | [Хабр](https://habr.com/ru/articles/1101178/) |
 
 Список будет расти вместе с книгой.
 
